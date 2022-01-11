@@ -15,7 +15,7 @@
 
 <p align="center">
 My name is Emiliano.<br>
-I'm a Front End Developer working remotely from Ciudad de Córdoba, Argentina.<br>
+I'm a Front End Developer working remotely from Rosario, Argentina.<br>
 I like to sleep in the intersection of art and technology.<br><br>
 Interested in hiring me or doing a project together? 👀<br>
 </p>
