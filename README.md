@@ -14,10 +14,10 @@
 </p>
 
 <p align="center">
-My name is Emiliano.<br>
-I'm a Front End Developer working remotely from Rosario, Argentina.<br>
-I like to sleep in the intersection of art and technology.<br><br>
-Interested in hiring me or doing a project together? 👀<br>
+☆ I'm Emiliano ☆<br>
+I'm a passionate Full-Stack Developer with over 7 years of experience in the software industry. I specialize in creating dynamic and visually engaging experiences through motion graphics, WebGL, and cutting-edge web technologies. My goal is to build products that not only solve problems but also inspire and delight users.
+<br><br>
+🤠
 </p>
 
 
